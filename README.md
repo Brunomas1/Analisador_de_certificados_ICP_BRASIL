@@ -53,6 +53,17 @@ Ao abrir a aplicação:
 2. Visualize as informações extraídas nas abas Resumo e Detalhes dos OIDs.
 3. Utilize o botão "Exportar para TXT" para salvar os dados exibidos em um arquivo de texto.
 
+## CNPJ
+![Descrição da Imagem](pj.png)
+![Descrição da Imagem](pj_2.png)
+
+## CPF
+
+![Descrição da Imagem](pf.png)
+![Descrição da Imagem](pf_2.png)
+
+
+
 ## Contribuição
 
 Este projeto é aberto a sugestões e melhorias. Se você encontrar algum problema ou tiver ideias para novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request.
