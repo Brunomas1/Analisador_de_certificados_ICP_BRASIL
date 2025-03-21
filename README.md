@@ -30,8 +30,8 @@ Este projeto é uma aplicação Python para análise de certificados digitais IC
    
    No terminal, execute:
    ```bash
-   git clone https://github.com/<seu_usuario>/<nome-do-repositorio>.git
-   cd <nome-do-repositorio>
+   git clone https://github.com/Brunomas1/Certanaliser.git
+   cd Certanaliser
    ```
 
 2. **Instale as Dependências**
