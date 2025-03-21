@@ -1,4 +1,4 @@
-# Analisador de Certificados ICP-Brasil - Modern GUI
+# Analisador de Certificados ICP-Brasil
 
 Este projeto é uma aplicação Python para análise de certificados digitais ICP-Brasil. A aplicação lê certificados nos formatos DER e PEM, extrai informações importantes (como dados do proprietário, validade, número de série, entre outros) e as apresenta em uma interface moderna e organizada desenvolvida com [customtkinter](https://github.com/TomSchimansky/CustomTkinter).
 
